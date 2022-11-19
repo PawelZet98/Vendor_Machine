@@ -1,0 +1,42 @@
+C:\Users\Paweł\Downloads\New folder\Projekt1_Maros51114\Projekt1_Zalewski51343\bin\Debug\Maszyna vendingowa.exe.config
+C:\Users\Paweł\Downloads\New folder\Projekt1_Maros51114\Projekt1_Zalewski51343\bin\Debug\Maszyna vendingowa.exe
+C:\Users\Paweł\Downloads\New folder\Projekt1_Maros51114\Projekt1_Zalewski51343\bin\Debug\Maszyna vendingowa.pdb
+C:\Users\Paweł\Downloads\New folder\Projekt1_Maros51114\Projekt1_Zalewski51343\obj\Debug\Projekt1_Zalewski51343.csprojAssemblyReference.cache
+C:\Users\Paweł\Downloads\New folder\Projekt1_Maros51114\Projekt1_Zalewski51343\obj\Debug\Maszyna_vendingowa.pzMaszynaVendingowa.resources
+C:\Users\Paweł\Downloads\New folder\Projekt1_Maros51114\Projekt1_Zalewski51343\obj\Debug\Maszyna_vendingowa.Properties.Resources.resources
+C:\Users\Paweł\Downloads\New folder\Projekt1_Maros51114\Projekt1_Zalewski51343\obj\Debug\Projekt1_Zalewski51343.csproj.GenerateResource.cache
+C:\Users\Paweł\Downloads\New folder\Projekt1_Maros51114\Projekt1_Zalewski51343\obj\Debug\Projekt1_Zalewski51343.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Downloads\New folder\Projekt1_Maros51114\Projekt1_Zalewski51343\obj\Debug\Maszyna vendingowa.exe
+C:\Users\Paweł\Downloads\New folder\Projekt1_Maros51114\Projekt1_Zalewski51343\obj\Debug\Maszyna vendingowa.pdb
+C:\Users\Paweł\Desktop\Projekt1_Zalewski51343\Projekt1_Zalewski51343\bin\Debug\Maszyna vendingowa.exe.config
+C:\Users\Paweł\Desktop\Projekt1_Zalewski51343\Projekt1_Zalewski51343\bin\Debug\Maszyna vendingowa.exe
+C:\Users\Paweł\Desktop\Projekt1_Zalewski51343\Projekt1_Zalewski51343\bin\Debug\Maszyna vendingowa.pdb
+C:\Users\Paweł\Desktop\Projekt1_Zalewski51343\Projekt1_Zalewski51343\obj\Debug\Projekt1_Zalewski51343.csprojAssemblyReference.cache
+C:\Users\Paweł\Desktop\Projekt1_Zalewski51343\Projekt1_Zalewski51343\obj\Debug\Maszyna_vendingowa.pzMaszynaVendingowa.resources
+C:\Users\Paweł\Desktop\Projekt1_Zalewski51343\Projekt1_Zalewski51343\obj\Debug\Maszyna_vendingowa.Properties.Resources.resources
+C:\Users\Paweł\Desktop\Projekt1_Zalewski51343\Projekt1_Zalewski51343\obj\Debug\Projekt1_Zalewski51343.csproj.GenerateResource.cache
+C:\Users\Paweł\Desktop\Projekt1_Zalewski51343\Projekt1_Zalewski51343\obj\Debug\Projekt1_Zalewski51343.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\Desktop\Projekt1_Zalewski51343\Projekt1_Zalewski51343\obj\Debug\Maszyna vendingowa.exe
+C:\Users\Paweł\Desktop\Projekt1_Zalewski51343\Projekt1_Zalewski51343\obj\Debug\Maszyna vendingowa.pdb
+C:\Users\Pawel\Desktop\Projekty\Projekt1_Zalewski51343\Projekt1_Zalewski51343\Projekt1_Zalewski51343\bin\Debug\Maszyna vendingowa.exe.config
+C:\Users\Pawel\Desktop\Projekty\Projekt1_Zalewski51343\Projekt1_Zalewski51343\Projekt1_Zalewski51343\bin\Debug\Maszyna vendingowa.exe
+C:\Users\Pawel\Desktop\Projekty\Projekt1_Zalewski51343\Projekt1_Zalewski51343\Projekt1_Zalewski51343\bin\Debug\Maszyna vendingowa.pdb
+C:\Users\Pawel\Desktop\Projekty\Projekt1_Zalewski51343\Projekt1_Zalewski51343\Projekt1_Zalewski51343\obj\Debug\Projekt1_Zalewski51343.csproj.AssemblyReference.cache
+C:\Users\Pawel\Desktop\Projekty\Projekt1_Zalewski51343\Projekt1_Zalewski51343\Projekt1_Zalewski51343\obj\Debug\Projekt1_Zalewski51343.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pawel\Desktop\Projekty\Projekt1_Zalewski51343\Projekt1_Zalewski51343\Projekt1_Zalewski51343\obj\Debug\Maszyna_vendingowa.pzMaszynaVendingowa.resources
+C:\Users\Pawel\Desktop\Projekty\Projekt1_Zalewski51343\Projekt1_Zalewski51343\Projekt1_Zalewski51343\obj\Debug\Maszyna_vendingowa.Properties.Resources.resources
+C:\Users\Pawel\Desktop\Projekty\Projekt1_Zalewski51343\Projekt1_Zalewski51343\Projekt1_Zalewski51343\obj\Debug\Projekt1_Zalewski51343.csproj.GenerateResource.cache
+C:\Users\Pawel\Desktop\Projekty\Projekt1_Zalewski51343\Projekt1_Zalewski51343\Projekt1_Zalewski51343\obj\Debug\Projekt1_Zalewski51343.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\Desktop\Projekty\Projekt1_Zalewski51343\Projekt1_Zalewski51343\Projekt1_Zalewski51343\obj\Debug\Maszyna vendingowa.exe
+C:\Users\Pawel\Desktop\Projekty\Projekt1_Zalewski51343\Projekt1_Zalewski51343\Projekt1_Zalewski51343\obj\Debug\Maszyna vendingowa.pdb
+C:\Users\Pawel\Desktop\Projekty\Vendor_Machine\Projekt1_Zalewski51343\bin\Debug\Maszyna vendingowa.exe.config
+C:\Users\Pawel\Desktop\Projekty\Vendor_Machine\Projekt1_Zalewski51343\bin\Debug\Maszyna vendingowa.exe
+C:\Users\Pawel\Desktop\Projekty\Vendor_Machine\Projekt1_Zalewski51343\bin\Debug\Maszyna vendingowa.pdb
+C:\Users\Pawel\Desktop\Projekty\Vendor_Machine\Projekt1_Zalewski51343\obj\Debug\Projekt1_Zalewski51343.csproj.AssemblyReference.cache
+C:\Users\Pawel\Desktop\Projekty\Vendor_Machine\Projekt1_Zalewski51343\obj\Debug\Projekt1_Zalewski51343.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pawel\Desktop\Projekty\Vendor_Machine\Projekt1_Zalewski51343\obj\Debug\Maszyna_vendingowa.pzMaszynaVendingowa.resources
+C:\Users\Pawel\Desktop\Projekty\Vendor_Machine\Projekt1_Zalewski51343\obj\Debug\Maszyna_vendingowa.Properties.Resources.resources
+C:\Users\Pawel\Desktop\Projekty\Vendor_Machine\Projekt1_Zalewski51343\obj\Debug\Projekt1_Zalewski51343.csproj.GenerateResource.cache
+C:\Users\Pawel\Desktop\Projekty\Vendor_Machine\Projekt1_Zalewski51343\obj\Debug\Projekt1_Zalewski51343.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\Desktop\Projekty\Vendor_Machine\Projekt1_Zalewski51343\obj\Debug\Maszyna vendingowa.exe
+C:\Users\Pawel\Desktop\Projekty\Vendor_Machine\Projekt1_Zalewski51343\obj\Debug\Maszyna vendingowa.pdb

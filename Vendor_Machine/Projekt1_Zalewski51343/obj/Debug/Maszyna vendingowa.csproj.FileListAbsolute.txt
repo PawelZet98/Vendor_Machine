@@ -1,0 +1,20 @@
+C:\Users\Tomasz\source\repos\Maszyna vendingowa\Maszyna vendingowa\obj\Debug\Maszyna vendingowa.csprojAssemblyReference.cache
+C:\Users\Tomasz\source\repos\Maszyna vendingowa\Maszyna vendingowa\obj\Debug\Maszyna_vendingowa.Form1.resources
+C:\Users\Tomasz\source\repos\Maszyna vendingowa\Maszyna vendingowa\obj\Debug\Maszyna_vendingowa.Properties.Resources.resources
+C:\Users\Tomasz\source\repos\Maszyna vendingowa\Maszyna vendingowa\obj\Debug\Maszyna vendingowa.csproj.GenerateResource.cache
+C:\Users\Tomasz\source\repos\Maszyna vendingowa\Maszyna vendingowa\obj\Debug\Maszyna vendingowa.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz\source\repos\Maszyna vendingowa\Maszyna vendingowa\bin\Debug\Maszyna vendingowa.exe.config
+C:\Users\Tomasz\source\repos\Maszyna vendingowa\Maszyna vendingowa\bin\Debug\Maszyna vendingowa.exe
+C:\Users\Tomasz\source\repos\Maszyna vendingowa\Maszyna vendingowa\bin\Debug\Maszyna vendingowa.pdb
+C:\Users\Tomasz\source\repos\Maszyna vendingowa\Maszyna vendingowa\obj\Debug\Maszyna vendingowa.exe
+C:\Users\Tomasz\source\repos\Maszyna vendingowa\Maszyna vendingowa\obj\Debug\Maszyna vendingowa.pdb
+C:\Users\Tomasz\source\repos\Projekt1_Maros51114\Maszyna vendingowa\obj\Debug\Maszyna vendingowa.csprojAssemblyReference.cache
+C:\Users\Tomasz\source\repos\Projekt1_Maros51114\Maszyna vendingowa\obj\Debug\Maszyna_vendingowa.tmMaszynaVendingowa.resources
+C:\Users\Tomasz\source\repos\Projekt1_Maros51114\Maszyna vendingowa\obj\Debug\Maszyna_vendingowa.Properties.Resources.resources
+C:\Users\Tomasz\source\repos\Projekt1_Maros51114\Maszyna vendingowa\obj\Debug\Maszyna vendingowa.csproj.GenerateResource.cache
+C:\Users\Tomasz\source\repos\Projekt1_Maros51114\Maszyna vendingowa\obj\Debug\Maszyna vendingowa.csproj.CoreCompileInputs.cache
+C:\Users\Tomasz\source\repos\Projekt1_Maros51114\Maszyna vendingowa\obj\Debug\Maszyna vendingowa.exe
+C:\Users\Tomasz\source\repos\Projekt1_Maros51114\Maszyna vendingowa\obj\Debug\Maszyna vendingowa.pdb
+C:\Users\Tomasz\source\repos\Projekt1_Maros51114\Maszyna vendingowa\bin\Debug\Maszyna vendingowa.exe.config
+C:\Users\Tomasz\source\repos\Projekt1_Maros51114\Maszyna vendingowa\bin\Debug\Maszyna vendingowa.exe
+C:\Users\Tomasz\source\repos\Projekt1_Maros51114\Maszyna vendingowa\bin\Debug\Maszyna vendingowa.pdb
